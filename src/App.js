@@ -6,7 +6,7 @@ function App() {
 <<<<<<< HEAD
       <h1>To-Do List</h1>
       <h1>Kanishk</h1>
-=======
+      <h2>Help</h2>
       
 >>>>>>> origin/master
     </div>
